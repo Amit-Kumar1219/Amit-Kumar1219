@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Amit-Kumar1219
-- 👀 I’m interested Web Development and Data Science
+- 👀 I’m interested in Web Development and Data Science
 - 🌱 I’m currently learning Data Science
 - 📫 You can reach me from my Email ID and Linkidln
 
